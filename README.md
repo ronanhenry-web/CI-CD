@@ -7,3 +7,5 @@ L'objectif découvrir :
 - Tests unitaires
 - Mesure de la qualité
 - Gestion des livrables (packaging)
+
+Voici un projet similaire en utilisant Jenkins : https://gitlab.com/RonanHENRY35/jenkins-cicd
