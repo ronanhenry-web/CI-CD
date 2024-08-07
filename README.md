@@ -1,6 +1,6 @@
 # Projet CI-CD
 
-Projet intégration continue sur Gitlab en utilisant Docker
+Projet intégration continue sur GitLab en utilisant Docker
 Voici le lien : https://gitlab.com/RonanHENRY35/cicd.git
 L'objectif découvrir :
 - Planification des développements
