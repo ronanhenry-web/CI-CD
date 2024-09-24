@@ -1,19 +1,19 @@
-# Projet CI-CD
+# CI-CD Project
 
-Projet intégration continue sur GitLab en utilisant Docker
+Continuous integration project on GitLab using Docker
 
-Voici le lien du repo GitLab : https://gitlab.com/RonanHENRY35/cicd.git
+Here is the GitLab repo link: https://gitlab.com/RonanHENRY35/cicd.git
 
-L'objectif découvrir :
-- Planification des développements
+The goal is to discover :
+- Development planning
 - Compilation (Build)
-- Tests unitaires
-- Mesure de la qualité
-- Gestion des livrables (packaging)
+- Unit tests
+- Quality measurement
+- Deliverable management (packaging)
 
-Voici un projet similaire en utilisant Jenkins : https://gitlab.com/RonanHENRY35/jenkins-cicd
+Here is a similar project using Jenkins: https://gitlab.com/RonanHENRY35/jenkins-cicd
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
